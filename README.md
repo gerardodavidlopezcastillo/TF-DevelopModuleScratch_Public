@@ -1,5 +1,5 @@
 ---
-description: Create Terraform Modules locally. In this repository, you will learn how to build a Terraform module from scratch to host a static website on Amazon S3. The focus is divided into three main sections:
+description: Create Terraform Modules locally. This repository will guide you through creating Terraform modules locally, focused on building a reusable module to host a static website on AWS S3
 ---
 # Build a Terraform Module
 
